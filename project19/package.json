@@ -1,0 +1,19 @@
+{
+  "name": "project19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pro19.js",
+  "type": "module",
+  "dependencies": {
+    "import": "^0.0.6",
+    "optimist": "^0.3.7",
+    "wordwrap": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
