@@ -4,6 +4,6 @@
 //Then, using that variable,
 // create a message that reveals your favorite number. 
 //Print that message.
-let myFavNum = 1;
+let myFavNum = 6;
 let message = (`My favourit number is ${myFavNum}`);
 console.log(message);

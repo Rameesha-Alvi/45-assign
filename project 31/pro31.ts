@@ -5,7 +5,7 @@
 
 //• Remove all of the usernames from your array, and make sure the correct message is printed.
 
-let username: string[] = ["admin", "Asma", "Armaan", "Maheen", "Mishal"];
+let username: string[] = ["admin", "Ivanka", "Schiller", "Morgan", "Olga"];
 
 if (username.length === 0) {
   console.log("We need to find some users!");

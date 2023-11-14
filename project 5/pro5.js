@@ -4,7 +4,7 @@
 //but this time store the famous person’s name in a variable called
 // famous_person. Then compose your message and store it in a new variable called message.
 // Print your message.
-let firstName = "Tipu Sultan";
-let famousQuote = ("LION'S ONE YEAR OF LIFE IS FAR BETTER THEN JACKEL'S 100 YEARS OF LIFE.");
-let _message = (`${firstName.toLocaleUpperCase()} said:   "${famousQuote}"`);
+let famous_person = "Vladimir Putin";
+let famousQuote = ("TO FORGIVE THE TERRORIST IS UPTO GOD, BUT TO SEND THEM TO HIM IS UPTO ME.");
+let _message = (`${famous_person.toLocaleUpperCase()} said: "${famousQuote}"`);
 console.log(_message);

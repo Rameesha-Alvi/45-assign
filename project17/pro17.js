@@ -4,7 +4,7 @@
 // and you have space for only two guests.
 //• Start with your program from Exercise 16. 
 //Add a new line that prints a message saying that you can invite only two people for dinner.
-let guestList = ['ASMA', 'Nazia', 'Maheen', 'Madeeha', 'Haniya', 'Manahil'];
+let guestList = ['Maria', 'Sania', 'Hermione', 'Michelle', 'Olga', 'Bruno'];
 console.log("It is to inform you that due to some circumstances,\ni can only invite two guest for dinner. \nsorry for inconvinience");
 //• Remove guests from your list one at a time until only two names remain in your list. 
 //Each time you pop a name from your list, print a message to that person letting them know you’re sorry you can’t invite them to dinner.

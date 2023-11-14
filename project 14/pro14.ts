@@ -14,7 +14,7 @@ function invite( firstName : string)
 {console.log(`Dear ${firstName} you are invited on Dinner at my House at 9:00pm.`);}
 
  
-invite(`Nazia`);
-invite(`Madeeha`);
-invite(`Huma`);
+invite(`Olga`);
+invite(`Moona`);
+invite(`Hira`);
 

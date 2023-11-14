@@ -13,7 +13,7 @@
 //• Make sure your comparison is case insensitive. If 'John' has been used, 'JOHN' should not be accepted.
 
 
-let current_users: string[] = ["Jhon", "emma", "alex", "sarah", "michael"];
+let current_users: string[] = ["John", "emma", "alex", "sarah", "michael"];
 let new_users: string[] = ["John", "emma", "lucas", "Olivia", "jacob"];
 
 for (let new_user of new_users) {

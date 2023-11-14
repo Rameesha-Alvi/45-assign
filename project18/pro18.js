@@ -2,7 +2,7 @@
 //=============================== PROJECT 18 ================================================================
 //Seeing the World: Think of at least five places in the world you’d like to visit.
 //• Store the locations in a array. Make sure the array is not in alphabetical order.
-let visitWorld = ["ENGLAND", "CHAINA", "BALI", "DENMARK", "AUSTRALIA"];
+let visitWorld = ["ROMANIA", "RUSSIA", "LATIVA", "SERBIA", "UNITED STATES"];
 //• Print your array in its original order.
 console.log("\nvisitWorld");
 console.log(visitWorld);

@@ -2,7 +2,7 @@
 
 //More Guests: You just found a bigger dinner table, so now more space is available. Think of three more guests to invite to dinner.
 
-let guestList = ["Nazia","Madeeha","Haniya"];
+let guestList = ["Maria","Sania","Hermione"];
 
 //• Start with your program from Exercise 15. Add a print statement to the end of your program 
 //informing people that you found a bigger dinner table.
@@ -12,20 +12,20 @@ for(let guest of guestList)
 
 //• Add one new guest to the beginning of your array.
 
-let newInvitedGuest : string ="ASMA";
+let newInvitedGuest : string ="Michelle";
 
 guestList.unshift(newInvitedGuest)
 //console.log(guestList)
 
 //• Add one new guest to the middle of your array. 
-let middleGuest : string = "Maheen"
+let middleGuest : string = "Sania"
 let middleIndex : number = Math.floor(guestList.length / 2)
 guestList.splice(middleIndex, 0, middleGuest)
 //console.log(guestList)
 
 //• Use append() to add one new guest to the end of your list.
 
-let endGuest : string = "Manahil"
+let endGuest : string = "Maria"
 guestList.push(endGuest)
 //console.log(guestList)
 

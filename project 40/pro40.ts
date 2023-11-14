@@ -23,9 +23,9 @@ function make_album(artist: string, title: string, tracks?: number): { artist: s
     return album;
   }
   
-  const album1 = make_album("Artist 1", "sooraj pay dastak");
-  const album2 = make_album("Artist 2", "saregama tvs", 12);
-  const album3 = make_album("Artist 3", "humsafer", 8);
+  const album1 = make_album("Artist 1", "Desert Rose");
+  const album2 = make_album("Artist 2", "Smooth Criminal", 12);
+  const album3 = make_album("Artist 3", "I am free", 8);
   
   console.log(album1);
   console.log(album2);

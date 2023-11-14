@@ -7,6 +7,6 @@
 function describe_city(city, country = "unknown country") {
     console.log(`${city} is in ${country}.`);
 }
-describe_city("Dehli", "India");
-describe_city("Istambol");
-describe_city("New York", "United States");
+describe_city("Newyork", "United States");
+describe_city("Islamabad");
+describe_city("Kiev", "Ukraine");

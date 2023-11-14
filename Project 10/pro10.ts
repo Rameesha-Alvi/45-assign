@@ -10,7 +10,7 @@
 //Then write one sentence describing what the program does.
 
 /*------------- adding comment --------------------*/
-let myName: string = "\t  Mehreen   \n";
+let myName: string = "\t  Rameesha   \n";
 /*white space */
 
 console.log (" with white space", myName);
@@ -24,9 +24,8 @@ console.log(stripName);
 //---------------- comment -----------------------
 
 console.log (
-    `Tipu Sultan said, \n  
-    "Lion's one year of life is far better then,
-     Jackel's 100 years of life".`);
+    `Vladimir Putin said, \n  
+    "To forgive the terrorist is upto God, but to send them to him is upto me".`);
 
 // dont bother by /n here i know its for next line
 // i break line mannually here,

@@ -8,18 +8,18 @@ exports.invite = void 0;
 // so you need to send out a new set of invitations.
 // You’ll have to think of someone else to invite.•
 // Start with your program from Exercise 14. Add a print statement at the end of your program stating the name of the guest who can’t make it.
-let guestList = ["Nazia", "Madeeha", "Huma"];
+let guestList = ["Maria", "Sania", "Afeefa"];
 console.log(guestList[2]);
 //• Modify your list, 
 //replacing the name of the guest who can’t make it with 
 //the name of the new person you are inviting.
-let newGuestList = ["Nazia", "Madeeha"];
-newGuestList.push("Haniya");
+let newGuestList = ["Maria", "Sania"];
+newGuestList.push("Hermione");
 console.log(newGuestList);
 //• Print a second set of invitation messages, 
 //one for each person who is still in your list.
 function invite(firstName) { console.log(`Dear ${firstName} you are invited on Dinner at my House at 9:00pm.`); }
 exports.invite = invite;
-invite(`Nazia`);
-invite(`Madeeha`);
-invite(`Haniya`);
+invite(`Maria`);
+invite(`Sania`);
+invite(`Hermoine`);

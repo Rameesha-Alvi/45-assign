@@ -3,7 +3,7 @@
 //Seeing the World: Think of at least five places in the world you’d like to visit.
 //• Store the locations in a array. Make sure the array is not in alphabetical order.
 
-let visitWorld : string[] = ["ENGLAND", "CHAINA", "BALI", "DENMARK", "AUSTRALIA"]
+let visitWorld : string[] = ["ROMANIA", "RUSSIA", "LATIVA", "SERBIA", "UNITED STATES"]
 
 //• Print your array in its original order.
 

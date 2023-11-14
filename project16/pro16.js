@@ -1,22 +1,22 @@
 /* ================================= PROJECT 16 ===================================================================================*/
 //More Guests: You just found a bigger dinner table, so now more space is available. Think of three more guests to invite to dinner.
-let guestList = ["Nazia", "Madeeha", "Haniya"];
+let guestList = ["Maria", "Sania", "Hermione"];
 //• Start with your program from Exercise 15. Add a print statement to the end of your program 
 //informing people that you found a bigger dinner table.
 for (let guest of guestList) {
     console.log(`Hi ${guest} im happy to inform you that i have found a bigger dinner table for us Hurray! `);
 }
 //• Add one new guest to the beginning of your array.
-let newInvitedGuest = "ASMA";
+let newInvitedGuest = "Michelle";
 guestList.unshift(newInvitedGuest);
 //console.log(guestList)
 //• Add one new guest to the middle of your array. 
-let middleGuest = "Maheen";
+let middleGuest = "Sania";
 let middleIndex = Math.floor(guestList.length / 2);
 guestList.splice(middleIndex, 0, middleGuest);
 //console.log(guestList)
 //• Use append() to add one new guest to the end of your list.
-let endGuest = "Manahil";
+let endGuest = "Maria";
 guestList.push(endGuest);
 //console.log(guestList)
 //• Print a new set of invitation messages, one for each person in your list.

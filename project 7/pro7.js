@@ -4,7 +4,7 @@
 and division operations that each result in the number 8.
 Be sure to enclose your operations in print statements to see the results.*/
 /*=================== ADDITION =============================*/
-let add = 6 + 2;
+let add = 8 + 2;
 console.log("Addition result:" + add);
 /*================== SUBTRACTION ==========================*/
 let sub = 12 - 4;

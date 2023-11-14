@@ -5,4 +5,4 @@
 // Your output should look something like the following, including the quotation marks:
 //Albert Einstein once said, 
 //“A person who never made a mistake never tried anything new.”
-console.log(`Tipu Sultan said, \n "Lion's one year of life is far better then Jackel's 100 years of life".`);
+console.log(`Carl Sagan said, \n "For small creatures such as we the vastness is bearable only through love.`);

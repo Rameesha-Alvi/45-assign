@@ -13,5 +13,5 @@ function city_country(city: string, country: string): string {
   }
   
   console.log(city_country("Islamabaad", "Pakistan"));
-  console.log(city_country("Istambol", "Turkey"));
-  console.log(city_country("Jerusalem", "Pelastine"));
+  console.log(city_country("Bucharest", "Romania"));
+  console.log(city_country("Jerusalem", "Palestine"));

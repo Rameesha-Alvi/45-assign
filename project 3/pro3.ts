@@ -2,7 +2,7 @@
 // --------------------ANME CASES -------------------
 //=====================UPPER CASE==============================
 
-let invite = "sameen";
+let invite = "Vladimir Putin";
 let invi = (`${invite.toLocaleUpperCase()}`);
 console.log(invi);
 

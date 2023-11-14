@@ -5,7 +5,7 @@
 //• Start with your program from Exercise 16. 
 //Add a new line that prints a message saying that you can invite only two people for dinner.
 
-let guestList : string[] = [ 'ASMA', 'Nazia', 'Maheen', 'Madeeha', 'Haniya', 'Manahil' ]
+let guestList : string[] = [ 'Maria', 'Sania', 'Hermione', 'Michelle', 'Olga', 'Bruno' ]
 console.log
 ("It is to inform you that due to some circumstances,\ni can only invite two guest for dinner. \nsorry for inconvinience")
 
